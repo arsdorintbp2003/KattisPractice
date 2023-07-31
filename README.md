@@ -1,6 +1,7 @@
 # KattisPractice
 A collection of all my solutions for Kattis Questions I have practiced:
 <br> 
+<br>
 [2048](https://github.com/arsdorintbp2003/KattisPractice/blob/main/2048/main.cpp) <br>
 [3D Printed Statues](https://github.com/arsdorintbp2003/KattisPractice/blob/main/3DPrintedStatues/main.cpp) <br>
 [Bijile](https://github.com/arsdorintbp2003/KattisPractice/blob/main/Bijile/main.cpp) <br>
