@@ -4,6 +4,7 @@ A collection of all my solutions for Kattis Questions I have practiced:
 <br>
 [2048](https://github.com/arsdorintbp2003/KattisPractice/blob/main/2048/main.cpp) <br>
 [3D Printed Statues](https://github.com/arsdorintbp2003/KattisPractice/blob/main/3DPrintedStatues/main.cpp) <br>
+[Bar Shelf](https://github.com/arsdorintbp2003/KattisPractice/blob/main/BarShelf/main.cpp) <br>
 [Bijile](https://github.com/arsdorintbp2003/KattisPractice/blob/main/Bijile/main.cpp) <br>
 [BingoTies](https://github.com/arsdorintbp2003/KattisPractice/blob/main/BingoTies/main.cpp) <br>
 [Cold-puter Science](https://github.com/arsdorintbp2003/KattisPractice/blob/main/Cold-puterScience/main.cpp) <br>
